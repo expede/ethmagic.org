@@ -1,0 +1,8 @@
+[package]
+name = "ethmagic"
+version = "0.1.0"
+authors = ["Brooklyn Zelenka <be.zelenka@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.4.0-rc.1"
